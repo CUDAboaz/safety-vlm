@@ -1,0 +1,152 @@
+[
+  {
+    "id": "human-accident_jam_rgb_0695_cctv2_18",
+    "image": "Manufacturing CCTV/human-accident_jam_rgb_0695_cctv2_18.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the worker wear required safety gear such as a hard hat?"
+      },
+      {
+        "from": "vlm",
+        "value": "Yes, all workers are wearing required protective gear including hard hats."
+      },
+      {
+        "from": "human",
+        "value": "Check the hard hat compliance status for the workers."
+      },
+      {
+        "from": "vlm",
+        "value": "Hard Hat: Compliant. All workers are equipped with safety helmets."
+      },
+      {
+        "from": "human",
+        "value": "Explain the PPE compliance situation in this scene."
+      },
+      {
+        "from": "vlm",
+        "value": "All 1 detected worker(s) strictly comply with safety regulations by wearing mandatory protective gear."
+      }
+    ]
+  },
+  {
+    "id": "human-accident_jam_rgb_0695_cctv2_02",
+    "image": "Manufacturing CCTV/human-accident_jam_rgb_0695_cctv2_02.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the worker wear required safety gear such as a hard hat?"
+      },
+      {
+        "from": "vlm",
+        "value": "Yes, all workers are wearing required protective gear including hard hats."
+      },
+      {
+        "from": "human",
+        "value": "What is the status of hard hat usage in this scene?"
+      },
+      {
+        "from": "vlm",
+        "value": "Hard Hat: Compliant. All workers are equipped with safety helmets."
+      },
+      {
+        "from": "human",
+        "value": "Explain the PPE compliance situation in this scene."
+      },
+      {
+        "from": "vlm",
+        "value": "All 1 detected worker(s) strictly comply with safety regulations by wearing mandatory protective gear."
+      }
+    ]
+  },
+  {
+    "id": "human-accident_jam_rgb_0695_cctv2_09",
+    "image": "Manufacturing CCTV/human-accident_jam_rgb_0695_cctv2_09.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAre all workers in this image wearing appropriate PPE including hard hats?"
+      },
+      {
+        "from": "vlm",
+        "value": "Yes, all workers are wearing required protective gear including hard hats."
+      },
+      {
+        "from": "human",
+        "value": "Check the hard hat compliance status for the workers."
+      },
+      {
+        "from": "vlm",
+        "value": "Hard Hat: Compliant. All workers are equipped with safety helmets."
+      },
+      {
+        "from": "human",
+        "value": "Provide a safety gear assessment for this scene."
+      },
+      {
+        "from": "vlm",
+        "value": "All 1 detected worker(s) strictly comply with safety regulations by wearing mandatory protective gear."
+      }
+    ]
+  },
+  {
+    "id": "human-accident_jam_rgb_0695_cctv2_14",
+    "image": "Manufacturing CCTV/human-accident_jam_rgb_0695_cctv2_14.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAre all workers in this image wearing appropriate PPE including hard hats?"
+      },
+      {
+        "from": "vlm",
+        "value": "Yes, all workers are wearing required protective gear including hard hats."
+      },
+      {
+        "from": "human",
+        "value": "Is there any worker without a safety helmet?"
+      },
+      {
+        "from": "vlm",
+        "value": "Hard Hat: Compliant. All workers are equipped with safety helmets."
+      },
+      {
+        "from": "human",
+        "value": "Provide a safety gear assessment for this scene."
+      },
+      {
+        "from": "vlm",
+        "value": "All 1 detected worker(s) strictly comply with safety regulations by wearing mandatory protective gear."
+      }
+    ]
+  },
+  {
+    "id": "human-accident_jam_rgb_0695_cctv2_06",
+    "image": "Manufacturing CCTV/human-accident_jam_rgb_0695_cctv2_06.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the worker wear required safety gear such as a hard hat?"
+      },
+      {
+        "from": "vlm",
+        "value": "Yes, all workers are wearing required protective gear including hard hats."
+      },
+      {
+        "from": "human",
+        "value": "Check the hard hat compliance status for the workers."
+      },
+      {
+        "from": "vlm",
+        "value": "Hard Hat: Compliant. All workers are equipped with safety helmets."
+      },
+      {
+        "from": "human",
+        "value": "Provide a safety gear assessment for this scene."
+      },
+      {
+        "from": "vlm",
+        "value": "All 1 detected worker(s) strictly comply with safety regulations by wearing mandatory protective gear."
+      }
+    ]
+  }
+]
